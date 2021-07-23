@@ -1,9 +1,6 @@
 package me.kwj1270.study.servlet.web.frontcontroller.v2;
 
-import me.kwj1270.study.servlet.web.frontcontroller.v1.ControllerV1;
-import me.kwj1270.study.servlet.web.frontcontroller.v1.controller.MemberFormControllerV1;
-import me.kwj1270.study.servlet.web.frontcontroller.v1.controller.MemberListControllerV1;
-import me.kwj1270.study.servlet.web.frontcontroller.v1.controller.MemberSaveControllerV1;
+import me.kwj1270.study.servlet.web.frontcontroller.MyView;
 import me.kwj1270.study.servlet.web.frontcontroller.v2.controller.MemberFormControllerV2;
 import me.kwj1270.study.servlet.web.frontcontroller.v2.controller.MemberListControllerV2;
 import me.kwj1270.study.servlet.web.frontcontroller.v2.controller.MemberSaveControllerV2;

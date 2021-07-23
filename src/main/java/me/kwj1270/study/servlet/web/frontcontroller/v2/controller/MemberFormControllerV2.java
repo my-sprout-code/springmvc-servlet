@@ -1,7 +1,7 @@
 package me.kwj1270.study.servlet.web.frontcontroller.v2.controller;
 
 import me.kwj1270.study.servlet.web.frontcontroller.v2.ControllerV2;
-import me.kwj1270.study.servlet.web.frontcontroller.v2.MyView;
+import me.kwj1270.study.servlet.web.frontcontroller.MyView;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
